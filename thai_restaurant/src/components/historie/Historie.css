@@ -1,0 +1,218 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafb;
+  }
+
+  /* VORES HISTORIE */
+
+  .historie_rundeimg{
+      display: flex;
+      justify-content: start;
+      align-items: center;
+      margin: 0;
+      padding: 10px;
+  }
+
+  .runde_img{
+      border-radius: 50px;
+  }
+
+
+  /* HISTORIE TO BILLEDER */
+
+  .img-move-wrapper{
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow:hidden;
+    margin:0 auto;
+    padding: 0;
+
+  }
+
+  .historie_h3{
+    color: #000;
+  }
+  .historie_h5{
+      color:#000;
+  }
+
+  .historie_p{
+    color: #000;
+  }
+
+
+/*--- MEDIA QUERIES --*/
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* MOBILE */
+/* extra small devices (landscape phones,less 320 and up) */
+@media (min-width: 320px) and (max-width: 575px ){
+
+    .historie_h3{
+        font-size: 20px;
+    }
+
+    .historie_h5{
+        font-size:18px;
+    }
+
+    .historie_p{
+        font-size: 14px;
+    }
+
+    .img-move-1 {
+        display: none;
+      }
+
+      .img-move-2 {
+        display: none;
+      }
+ }
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+    .historie_h3{
+        font-size: 20px;
+    }
+
+    .historie_h5{
+        font-size:18px;
+    }
+
+    .historie_p{
+        font-size: 14px;
+    }
+
+    .img-move-1 {
+        position:relative;
+        margin-top:15%;
+        margin-left:25%;
+      }
+
+      .img-move-2 {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -65%);
+      }
+ }
+
+
+/* TABLETS */
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    .historie_h3{
+        font-size: 24px;
+    }
+
+    .historie_h5{
+        font-size:20px;
+    }
+
+    .historie_p{
+        font-size: 15px;
+    }
+
+    .img-move-1 {
+        position:relative;
+        margin-top: 30%;
+        margin-left: 5%;
+      }
+
+      .img-move-2 {
+        position: absolute;
+        top: 50%;
+        transform: translate(-40%, -60%);
+      }
+
+}
+
+
+/* DESKTOPS */
+/*Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .historie_h3{
+        font-size: 24px;
+    }
+
+    .historie_h5{
+        font-size:20px;
+    }
+
+    .historie_p{
+        font-size: 15px;
+    }
+
+    .img-move-1 {
+        position:relative;
+        margin-top: 30%;
+        margin-left: 13%;
+      }
+
+      .img-move-2 {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -65%);
+      }
+
+    
+}
+
+
+/* VERY LARGE SCREEN */
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    .historie_h3{
+        font-size: 26px;
+    }
+
+    .historie_h5{
+        font-size:20px;
+    }
+
+    .historie_p{
+        font-size: 16px;
+    }
+
+    .img-move-1 {
+        position:relative;
+        margin-top: 18%;
+        margin-left: 25%;
+      }
+      
+      .img-move-2 {
+        position: absolute;
+        top: 50%;
+        transform: translate(-50%, -65%);
+      }
+
+
+ }
+
+
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/

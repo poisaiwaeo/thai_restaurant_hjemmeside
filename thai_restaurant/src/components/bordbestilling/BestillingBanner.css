@@ -1,0 +1,152 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafb;
+  }
+  
+  /* BESTILLING BANNER */
+  .banner_img{
+      display: block;
+      width: 100%;
+      height: auto;
+      position: relative;
+      margin: 0;
+      padding: 0;
+  }
+
+  
+  .bestilling_title{
+    width: 50%;
+    background-color: #fff;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .bestilling_h2 {
+      color: #000;
+      text-transform: uppercase;
+  }
+
+
+  
+  
+  /*--- MEDIA QUERIES --*/
+  /* Extra small devices (portrait phones, less than 576px) */
+  /* No media query for `xs` since this is the default in Bootstrap */
+  
+  /* MOBILE */
+  /* extra small devices (landscape phones,less 320 and up) */
+  @media (min-width: 320px) and (max-width: 575px ){ 
+
+        /* OM OS BANNER */
+        .banner_img{
+            display: none;
+        }
+
+        .bestilling_title{
+            display: none;
+        }
+
+  
+   }
+  
+  
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) { 
+
+        /* OM OS BANNER */
+        .bestilling_title{
+            top: 50%;
+            left: 25%;
+            transform: translateY(-250%);
+            padding:10px;
+          }
+
+        .bestilling_h2{
+            font-size: 24px;
+          }
+
+   }
+  
+  
+  /* TABLETS */
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) { 
+  
+        /* OM OS BANNER */
+        .bestilling_title{
+            position: absolute;
+            top: 50%;
+            left: 25%;
+            transform: translateY(-50%);
+            padding:20px;
+        }
+        
+        .bestilling_h2{
+          font-size: 30px;
+        }
+  }
+  
+  
+  /* DESKTOPS */
+  /*Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+      
+        /* OM OS BANNER */
+        .bestilling_title{
+            position: absolute;
+            top: 50%;
+            left: 35%;
+            transform: translateY(-50%);
+            padding:20px;
+        }
+
+      .bestilling_h2{
+          font-size: 30px;
+        }
+
+  }
+  
+  
+  /* VERY LARGE SCREEN */
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) { 
+  
+        /* OM OS BANNER */
+        .bestilling_title{
+            position: absolute;
+            top: 50%;
+            left: 35%;
+            transform: translateY(-50%);
+            padding:20px;
+        }
+
+        .bestilling_h2 {
+          font-size: 50px;
+      }
+      
+   }
+  
+  
+  
+  
+  /*
+  Extra small (xs) devices (portrait phones, less than 576px)
+  No media query since this is the default in Bootstrap
+  
+  Small (sm) devices (landscape phones, 576px and up)
+  @media (min-width: 576px) { ... }
+  
+  Medium (md) devices (tablets, 768px and up)
+  @media (min-width: 768px) { ... }
+  
+  Large (lg) devices (desktops, 992px and up)
+  @media (min-width: 992px) { ... }
+  
+  Extra (xl) large devices (large desktops, 1200px and up)
+  @media (min-width: 1200px) { ... }
+  */
+  

@@ -1,0 +1,215 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafb;
+  }
+
+  /* Menu muligheder */
+  .allemenu_ikon{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+  .forretter_ikon{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hovedretter_ikon{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dessert_ikon{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.drikkevarer_ikon{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menu_hover:hover{
+    opacity: 0.5;
+}
+
+  .menu_h3{
+    color: #000;
+  }
+  
+  .menu_h5{
+      color:#000;
+  }
+
+  /* MenuFilter */
+  .menufilter_h5{
+      color: #f2b632;
+  }
+
+  .menu_p{
+    color: #000;
+  }
+
+ 
+
+
+/*--- MEDIA QUERIES --*/
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* MOBILE */
+/* extra small devices (landscape phones,less 320 and up) */
+@media (min-width: 320px) and (max-width: 575px ){
+
+    .menu_h3{
+        font-size: 20px;
+    }
+
+    .menu_h5{
+        font-size:18px;
+    }
+
+     /* MenuFilter */
+    .menufilter_h5{
+        font-size:18px;
+    }
+
+    .menu_p{
+        font-size: 14px;
+    }
+
+ }
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+    .menu_h3{
+        font-size: 20px;
+    }
+
+    .menu_h5{
+        font-size:18px;
+    }
+
+    /* MenuFilter */
+    .menufilter_h5{
+        font-size:18px;
+    }
+
+    .menu_p{
+        font-size: 14px;
+    }
+    
+ }
+
+
+/* TABLETS */
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+     
+    .menu_h3{
+        font-size: 24px;
+    }
+    
+    .menu_h5{
+        font-size:20px;
+    }
+
+    /* MenuFilter */
+    .menufilter_h5{
+        font-size:20px;
+    }
+    
+    .menu_p{
+        font-size: 15px;
+    }
+
+
+}
+
+
+/* DESKTOPS */
+/*Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .menu_h3{
+        font-size: 24px;
+    }
+
+    .menu_h5{
+        font-size:20px;
+    }
+
+    /* MenuFilter */
+    .menufilter_h5{
+        font-size:20px;
+    }
+
+    .menu_p{
+        font-size: 15px;
+    }
+    
+}
+
+
+/* VERY LARGE SCREEN */
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    .menu_h3{
+        font-size: 26px;
+    }
+    
+    .menu_h5{
+        font-size:20px;
+    }
+
+    /* MenuFilter */
+    .menufilter_h5{
+        font-size:20px;
+    }
+    
+    .menu_p{
+        font-size: 16px;
+    }
+
+ }
+
+
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/

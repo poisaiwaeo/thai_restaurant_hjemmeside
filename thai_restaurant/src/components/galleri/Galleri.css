@@ -1,0 +1,163 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafb;
+  }
+
+    /* GALLERI */
+
+    .galleri_btn{
+        width: 150px;
+        height: 44px;
+        background-color: #f2b632;
+        color: #fff;
+        text-align: center;
+        border: none;
+        text-decoration: none;
+        margin: 20px auto;
+    }
+    
+    .galleri_btn:hover{
+        opacity: 0.5;
+    }
+
+    .galleri_wrapper{
+        margin: 40px;
+    }
+
+      .galleri_h3{
+        color: #000;
+      }
+    
+      .galleri_h5{
+          color:#000;
+      }
+    
+      .galleri_p{
+        color: #000;
+      }
+    
+      
+
+/*--- MEDIA QUERIES --*/
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* MOBILE */
+/* extra small devices (landscape phones,less 320 and up) */
+@media (min-width: 320px) and (max-width: 575px ){
+
+    .galleri_wrapper{
+        margin: 0;
+    }
+
+    .galleri_h3{
+        font-size: 20px;
+    }
+
+    .galleri_h5{
+        font-size:18px;
+    }
+
+    .galleri_p{
+        font-size: 14px;
+    } 
+
+ }
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+    .galleri_h3{
+        font-size: 20px;
+    }
+
+    .galleri_h5{
+        font-size:18px;
+    }
+
+    .galleri_p{
+        font-size: 14px;
+    }
+
+ }
+
+
+/* TABLETS */
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    .galleri_h3{
+        font-size: 24px;
+    }
+
+    .galleri_h5{
+        font-size:20px;
+    }
+
+    .galleri_p{
+        font-size: 15px;
+    }
+
+}
+
+
+/* DESKTOPS */
+/*Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .galleri_h3{
+        font-size: 24px;
+    }
+
+    .galleri_h5{
+        font-size:20px;
+    }
+
+    .galleri_p{
+        font-size: 15px;
+    }
+
+    
+}
+
+
+/* VERY LARGE SCREEN */
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    .galleri_h3{
+        font-size: 26px;
+    }
+
+    .galleri_h5{
+        font-size:20px;
+    }
+
+    .galleri_p{
+        font-size: 16px;
+    }
+
+ }
+
+
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/

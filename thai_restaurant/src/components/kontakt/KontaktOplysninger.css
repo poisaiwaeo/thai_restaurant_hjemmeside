@@ -1,0 +1,193 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafb;
+  }
+
+    /* KONTAKT */
+
+    .kontakt_ikoner{
+        display: flex;
+        width: 100%;
+        height:40px;
+        justify-content: flex-start;
+        align-items: center;
+      }
+    
+      .kontakt_medier{
+        display: flex;
+        width: 100%;
+        height:30px;
+        justify-content: flex-start;
+        align-items: center;
+        margin: 0;
+      }
+
+      .kontakt_h3{
+        color: #000;
+      }
+    
+      .kontakt_h5{
+          color:#000;
+      }
+    
+      .kontakt_p{
+        color: #000;
+      }
+    
+      /* Fontawesome */
+      .fab:hover{
+          opacity: 0.4;
+      }
+
+      
+  /* KONTAKT FORM */
+  .card-body{
+      background-color: #f2f3f4;
+  }
+
+  /* .kontakt_btn{
+    background-color: #f2b632;
+    color: 000;
+    height: 44px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+} */
+
+.kontakt_btn{
+    width: 150px;
+    height: 44px;
+    background-color: #f2b632;
+    color: #fff;
+    text-align: center;
+    border: none;
+    text-decoration: none;
+    margin: 0 auto;
+}
+
+.kontakt_btn:hover{
+    opacity: 0.5;
+}
+
+
+      
+
+/*--- MEDIA QUERIES --*/
+/* Extra small devices (portrait phones, less than 576px) */
+/* No media query for `xs` since this is the default in Bootstrap */
+
+/* MOBILE */
+/* extra small devices (landscape phones,less 320 and up) */
+@media (min-width: 320px) and (max-width: 575px ){
+
+   .kontakt_h3{
+        font-size: 20px;
+    }
+
+    .kontakt_h5{
+        font-size:18px;
+    }
+
+    .kontakt_p{
+        font-size: 14px;
+    } 
+
+ }
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+    .kontakt_h3{
+        font-size: 20px;
+    }
+
+    .kontakt_h5{
+        font-size:18px;
+    }
+
+    .kontakt_p{
+        font-size: 14px;
+    }
+
+ }
+
+
+/* TABLETS */
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+    .kontakt_h3{
+        font-size: 24px;
+    }
+
+    .kontakt_h5{
+        font-size:20px;
+    }
+
+    .kontakt_p{
+        font-size: 15px;
+    }
+
+}
+
+
+/* DESKTOPS */
+/*Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .kontakt_h3{
+        font-size: 24px;
+    }
+
+    .kontakt_h5{
+        font-size:20px;
+    }
+
+    .kontakt_p{
+        font-size: 15px;
+    }
+
+    
+}
+
+
+/* VERY LARGE SCREEN */
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+    .kontakt_h3{
+        font-size: 26px;
+    }
+
+    .kontakt_h5{
+        font-size:20px;
+    }
+
+    .kontakt_p{
+        font-size: 16px;
+    }
+
+ }
+
+
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/

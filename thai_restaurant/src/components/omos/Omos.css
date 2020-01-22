@@ -1,0 +1,202 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f9fafb;
+  }
+  
+  /* OM OS BANNER */
+  .banner_img{
+      display: block;
+      width: 100%;
+      height: auto;
+      position: relative;
+      margin: 0;
+      padding: 0;
+  }
+
+  
+  .om_title{
+    width: 50%;
+    background-color: #fff;
+    opacity: 0.7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .om_h2 {
+      color: #000;
+      text-transform: uppercase;
+  }
+
+  /* VORES HOLD */
+  .hold_container{
+    background: #001529;
+    background: -webkit-linear-gradient(top left, #001529, #0B2A87);
+    background: -moz-linear-gradient(top left, #001529, #0B2A87);
+    background: linear-gradient(to bottom right, #001529, #0B2A87);
+  } 
+
+  .card{
+    transition: transform .5s;
+  }
+
+  .card::after{
+    width: 100%;
+    height: 100%;
+    transition:opcity 2s cubic-bezier(.165, .84, .44 1);
+  }
+
+  .card:hover,
+  .card:focus{
+    transform: scale3d(1.006, 1.006, 1);
+  }
+  .card::after{
+    opacity: 1;
+  }
+  
+  
+  
+  /*--- MEDIA QUERIES --*/
+  /* Extra small devices (portrait phones, less than 576px) */
+  /* No media query for `xs` since this is the default in Bootstrap */
+  
+  /* MOBILE */
+  /* extra small devices (landscape phones,less 320 and up) */
+  @media (min-width: 320px) and (max-width: 575px ){ 
+
+        /* OM OS BANNER */
+        .banner_img{
+            display: none;
+        }
+
+        .om_title{
+            display: none;
+        }
+
+        /* VORES HOLD */
+        .hold_h3{
+            font-size: 20px;
+        }
+  
+   }
+  
+  
+  /* Small devices (landscape phones, 576px and up) */
+  @media (min-width: 576px) { 
+
+        /* OM OS BANNER */
+        .om_title{
+            top: 50%;
+            left: 25%;
+            transform: translateY(-250%);
+            padding:10px;
+          }
+
+        .om_h2{
+            font-size: 24px;
+          }
+
+        /* VORES HOLD */
+        .hold_h3{
+            font-size: 20px;
+        }
+
+   }
+  
+  
+  /* TABLETS */
+  /* Medium devices (tablets, 768px and up) */
+  @media (min-width: 768px) { 
+  
+        /* OM OS BANNER */
+        .om_title{
+            position: absolute;
+            top: 50%;
+            left: 25%;
+            transform: translateY(-50%);
+            padding:20px;
+        }
+        
+        .om_h2{
+          font-size: 30px;
+        }
+
+        /* VORES HOLD */
+        .hold_h3{
+            font-size: 24px;
+        }
+
+  }
+  
+  
+  /* DESKTOPS */
+  /*Large devices (desktops, 992px and up) */
+  @media (min-width: 992px) { 
+      
+        /* OM OS BANNER */
+        .om_title{
+            position: absolute;
+            top: 50%;
+            left: 35%;
+            transform: translateY(-50%);
+            padding:20px;
+        }
+
+      .om_h2{
+          font-size: 30px;
+        }
+
+        /* VORES HOLD */
+        .hold_h3{
+            font-size: 24px;
+        } 
+
+  }
+  
+  
+  /* VERY LARGE SCREEN */
+  /* Extra large devices (large desktops, 1200px and up) */
+  @media (min-width: 1200px) { 
+  
+        /* OM OS BANNER */
+        .om_title{
+            position: absolute;
+            top: 50%;
+            left: 35%;
+            transform: translateY(-50%);
+            padding:20px;
+        }
+
+        .om_h2 {
+          font-size: 50px;
+      }
+
+      /* VORES HOLD */
+      .hold_h3{
+        font-size: 26px;
+    }
+      
+   }
+  
+  
+  
+  
+  /*
+  Extra small (xs) devices (portrait phones, less than 576px)
+  No media query since this is the default in Bootstrap
+  
+  Small (sm) devices (landscape phones, 576px and up)
+  @media (min-width: 576px) { ... }
+  
+  Medium (md) devices (tablets, 768px and up)
+  @media (min-width: 768px) { ... }
+  
+  Large (lg) devices (desktops, 992px and up)
+  @media (min-width: 992px) { ... }
+  
+  Extra (xl) large devices (large desktops, 1200px and up)
+  @media (min-width: 1200px) { ... }
+  */
+  

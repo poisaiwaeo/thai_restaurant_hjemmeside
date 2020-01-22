@@ -1,0 +1,301 @@
+[1216/182445.420:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff78a510000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.422:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1216/182445.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae33e0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.422:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[1216/182445.422:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae23b0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.422:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNEL32.DLL
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0fe0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNELBASE.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa7b5f0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.108\chrome_elf.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad7830000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2dc0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcrt.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae1290000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcryptPrimitives.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2280000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ADVAPI32.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2bf0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\sechost.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2c90000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\RPCRT4.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b550000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.108\chrome_child.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2090000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\OLEAUT32.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0370000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcp_win.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0410000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ucrtbase.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2ec0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\combase.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2210000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WS2_32.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0f80000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WINTRUST.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0330000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\MSASN1.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae1310000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\CRYPT32.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffadf830000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad4420000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.423:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[1216/182445.423:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae01d0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0350000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\profapi.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffac8f40000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fface2d0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0310000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\kernel.appcore.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0f00000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffadebe0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad67e0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad6f60000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffada840000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae15d0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad3db0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0f30000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\cfgmgr32.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffade1c0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\PROPSYS.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae3270000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\shcore.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae01a0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffadfcf0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ff78a510000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae33e0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\ntdll.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae23b0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNEL32.DLL
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0fe0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\KERNELBASE.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa7b5f0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.108\chrome_elf.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad7830000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\VERSION.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2dc0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcrt.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae1290000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcryptPrimitives.dll
+[1216/182445.424:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2280000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.424:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ADVAPI32.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2bf0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\sechost.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2c90000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\RPCRT4.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5b550000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\78.0.3904.108\chrome_child.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2090000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\OLEAUT32.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0370000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\msvcp_win.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0410000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\ucrtbase.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2ec0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\combase.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae2210000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WS2_32.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0f80000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\WINTRUST.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0330000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\MSASN1.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae1310000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\CRYPT32.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffadf830000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\IPHLPAPI.DLL
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad4420000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMM.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae01d0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\USERENV.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0350000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\profapi.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffac8f40000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\DWrite.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7fface2d0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINSPOOL.DRV
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0310000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\kernel.appcore.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0f00000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\bcrypt.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffadebe0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dbghelp.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad67e0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\Secur32.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad6f60000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINHTTP.dll
+[1216/182445.425:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffada840000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.425:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\dhcpcsvc.DLL
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae15d0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\NSI.dll
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffad3db0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\WINMMBASE.dll
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae0f30000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\cfgmgr32.dll
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffade1c0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\PROPSYS.dll
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae3270000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\System32\shcore.dll
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae01a0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\SSPICLI.DLL
+[1216/182445.426:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffadfcf0000 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.426:WARNING:pe_image_reader.cc(340)] could not read dos header from C:\Windows\SYSTEM32\CRYPTBASE.DLL
+[1216/182445.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100bf8000 of 32768 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1013fd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x101bfd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.430:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1023fc000 of 16384 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x102bfc000 of 16384 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1033fe000 of 8192 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x103bfd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1043fd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x104bfd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1053fd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x105bfd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1063fd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x106bfd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x1073fd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x107bfd000 of 12288 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100209000 of 852 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x10020a000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x10020c000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.431:ERROR:process_memory_win.cc(73)] ReadMemory at 0x10020e000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100210000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100212000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100214000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100216000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100218000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x10021a000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x10021c000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x10021e000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100220000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100222000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100224000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x100226000 of 6024 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e10750 of 80 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e10fe0 of 17358 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e153c0 of 1012 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e15a08 of 118 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e15a80 of 860 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e15dde of 118 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e15e56 of 96 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e15ed0 of 58 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.432:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e15fd0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e16160 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e16320 of 126 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e16700 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e16890 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e168e0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e16cf0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e16e80 of 68 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e17ea0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e17fd0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e18100 of 154 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e18f30 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e18f80 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e190b0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e19660 of 158 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1a6b0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1afd0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1df20 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1df70 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e1a0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.433:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e1f0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e330 of 66 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e380 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e4c0 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e560 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1e5b0 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1ee60 of 76 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1f6f0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1f7e0 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1f970 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1fa10 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1fab0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1fb50 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1fba0 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1fbf0 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1fe70 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1ff60 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e1ffb0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e20140 of 66 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e20190 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e201e0 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e20320 of 58 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e20370 of 60 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e205f0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e20640 of 62 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.434:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e227b0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e23a20 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e23b50 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e23c80 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e23db0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e23ee0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e24010 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e24140 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e243a0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e244d0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e24600 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e24730 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e24860 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e25940 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e25a70 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2a010 of 54 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2a9d0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2ad30 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2ae60 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2afe0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2b110 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2b240 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2b370 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2b700 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2bcf0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2c670 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2c8d0 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2cc60 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e2cd90 of 132 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.435:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e3fc40 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12812e405c0 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128133a0000 of 384 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128133d7e50 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128133dfbd0 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128133e5080 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128133e8280 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128133ead80 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128134088e0 of 712 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12813412b28 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12813412d68 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128134134b8 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815201120 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815235e40 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815238228 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815238cd8 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815251160 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815252b00 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128153ab6f0 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x128153ac248 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x12815620000 of 384 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.436:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5cfdc62c of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffa5d745294 of 553 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae124b6d0 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae347c0c4 of 672 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae347c6c4 of 512 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae347f974 of 608 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae350c428 of 18 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae353f4f8 of 40 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae353f978 of 48 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.437:ERROR:process_memory_win.cc(73)] ReadMemory at 0x7ffae35453c0 of 64 bytes failed: Kun en del af ReadProcessMemory- eller WriteProcessMemory- anmodningen blev gennemført. (0x12B)
+[1216/182445.438:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: Der blev foretaget et forsøg på at få adgang til en eksisterende proces. (0xc000010a)
