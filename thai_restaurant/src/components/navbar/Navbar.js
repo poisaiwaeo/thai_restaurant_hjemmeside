@@ -32,15 +32,6 @@ const Navbar = () => {
 
       <li className="nav-item ">
       <NavLink className="nav-link" to="/menu"> Menu </NavLink>
-        {/* <NavLink className="nav-link dropdown-toggle" to="/menu" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Menu </NavLink> */}
-        {/* <div className="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <NavLink className="dropdown-item" to="/menu"> Menu </NavLink>
-          <NavLink className="dropdown-item" to="/alleMenu"> Alle menu </NavLink>
-          <NavLink className="dropdown-item" to="/forretter"> Forretter </NavLink>
-          <NavLink className="dropdown-item" to="/hovedretter"> Hovedretter </NavLink>
-          <NavLink className="dropdown-item" to="/dessert"> Dessert </NavLink>
-          <NavLink className="dropdown-item" to="/drikkevarer"> Drikkevarer </NavLink>
-        </div> */}
       </li>
 
       <li className="nav-item">

@@ -7,7 +7,6 @@ import slide03 from '../../images/slide03.jpg';
 //import components
 import Menu from '../menu/Menu';
 import Bordbestilling from '../bordbestilling/Bordbestilling';
-import Dessert from '../menu/Dessert';
 //import css
 import './Slider.css';
 
@@ -58,7 +57,7 @@ const Slider = () => {
                         <div className="carousel-caption">
                         <h2 className="display-2"> Lækre dessert </h2>
 				        <p> Is, kager og de traditionel thai dessert</p>
-				        <Link to="/dessert">
+				        <Link to="/menu">
                         <button type="button" className="btn btn-outline-light btn-lg">
 					     <span>Dessert</span>
 				        </button>	
